@@ -1,0 +1,2 @@
+port_str: /dev/tty.usbmodemfa131
+baud_rate: 9600
